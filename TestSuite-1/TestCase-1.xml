@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="4b052a4a-4ad5-4827-905e-9b1a7d92608d" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="TestCase 1" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="4b052a4a-4ad5-4827-905e-9b1a7d92608dfileName">TestCase-1</con:setting>
+  </con:settings>
+  <con:testStep type="delay" name="Delay" id="cf71bc19-f0c2-49a4-bc11-de9d61d0c96e">
+    <con:settings/>
+    <con:config>
+      <delay>1000</delay>
+    </con:config>
+  </con:testStep>
+  <con:properties/>
+  <con:reportParameters/>
+</con:testCase>
